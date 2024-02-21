@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/035/834/987/original/jordan-pak-lofi.gif?1616014770">
 
 
-- 🔭 I’m currently working on a **Stock-Analyzer-With-YahooFinance**
+- 🔭 I’m currently working on a **Stock-Analyzer-With       -YahooFinance**
 
 - 🌱 I’m currently learning **Python and Java**
 
