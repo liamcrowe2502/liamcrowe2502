@@ -1,12 +1,12 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblJnQzJVZ3A3NXlYSFo5YXRobUowckQ3R1RMd3xBQ3Jtc0trc3pEZTZDSjFaQjVTakFyRHpJdDh4S1l1N1VuS2xGNGRYQ2NuLUNDSGRIVEZCZ2RxSW4zNXU2UGNEbC1RSDZ3cmpNQ010SVByYVBIYVZDVlo0Z3NnTnZESnl6RmlCSmdsVi02VTNYemN1VjJFdVBUVQ&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Liam Crowe</h1>
 <h3 align="center">I am a Python and Java focused developer from Ireland. I am showcasing some projects I have completed.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/035/834/987/original/jordan-pak-lofi.gif?1616014770">
 
 
-- 🔭 I’m currently working on **Stock-Analyzer-With-YahooFinance**
+- 🔭 I’m currently working on a **Stock-Analyzer-With-YahooFinance**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and Java**
 
 - 📫 How to reach me **liamcrowe2502@gmail.com**
 
