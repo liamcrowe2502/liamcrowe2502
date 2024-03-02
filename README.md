@@ -1,10 +1,10 @@
 <h1>Add banner an redesign it</h1>
 <h1 align="center">Hi 👋, I'm Liam Crowe</h1>
 <h3 align="center">I am a Python and Java focused developer from Ireland. I am showcasing some projects I have completed.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/035/834/987/original/jordan-pak-lofi.gif?1616014770">
+<img align="right" alt="Coding" width="400" border-radius="5px" src="https://cdnb.artstation.com/p/assets/images/images/035/834/987/original/jordan-pak-lofi.gif?1616014770">
 
 
-- 🔭 I’m currently working on a **Stock-Analyzer-With       -YahooFinance**
+- 🔭 I’m currently working on a **Stock-Analyzer-With-YahooFinance**
 
 - 🌱 I’m currently learning **Python and Java**
 
